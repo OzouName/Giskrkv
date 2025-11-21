@@ -1,10 +1,10 @@
 fee = 0.15 # 1%
-your_discord_user_id = '1240015037523820665'
-bot_token = "MTI1Mzg2NDI1MzE3ODUxNTU3Nw.Go-lPM.d0nF97inrALxx7gr4kLHv0kZhn1wLOc3MJiwqE"
-ticket_channel = '1251659487778177196'
-dispute_channel = '1252687435113037876'
-logsid = '1242591820643565671'
-api_key = "8b2039956799495e9080c9573314cce9"
+your_discord_user_id = '1249077175907254442'
+bot_token = ""
+ticket_channel = '1441115406025883790'
+dispute_channel = '1432497082450579548'
+logsid = '1441115285498105907'
+api_key = "278930fe72e341c69cc284aa1fea2e3c"
 
 deals = {}
 dis = {}
